@@ -59,9 +59,6 @@ DEVELOPED BY : SARVESHKARAN V K
 REG NO       : 212221230089
 
 
-
-
-
 #define in1 6
 #define in2 7
 #define button 4
